@@ -1,0 +1,5 @@
+id,medicament_id,medicament_nom,pharmacie_id,pharmacie_nom,pharmacie_source_id,pharmacie_source_nom,pharmacie_destination_id,pharmacie_destination_nom,quantite,prix,date
+b06a,1,Paracétamol,1,Pharmacie Centrale,,, , ,1,12.5,2025-10-24T22:22:57.592Z
+3616,1,Paracétamol,1,Pharmacie Centrale,,, , ,1,12.5,2025-10-24T22:23:03.527Z
+8d2a,1,Paracétamol,,,1,Pharmacie Centrale,1,Pharmacie Centrale,1,12.5,2025-10-24T22:34:57.815Z
+1755,5,Doliprane,,,1,Pharmacie Centrale,4,Pharmacie Sahloul,50,18.2,2025-10-24T22:43:12.870Z

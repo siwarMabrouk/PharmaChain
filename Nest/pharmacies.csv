@@ -1,0 +1,174 @@
+"pharmacies": [
+    {
+      "id": 1,
+      "nom": "Pharmacie Centrale",
+      "adresse": "Avenue Habib Bourguiba, Sousse",
+      "telephone": "+216 73 225 678",
+      "stock": [
+        {
+          "medicamentId": 1,
+          "quantite": 50,
+          "prix": 12.5
+        },
+        {
+          "medicamentId": 2,
+          "quantite": 30,
+          "prix": 15.8
+        },
+        {
+          "medicamentId": 3,
+          "quantite": 0,
+          "prix": 22.3
+        },
+        {
+          "medicamentId": 4,
+          "quantite": 25,
+          "prix": 10.9
+        },
+        {
+          "medicamentId": 5,
+          "quantite": 40,
+          "prix": 18.2
+        },
+        {
+          "medicamentId": 6,
+          "quantite": 20,
+          "prix": 14.7
+        },
+        {
+          "medicamentId": 7,
+          "quantite": 15,
+          "prix": 25.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Pharmacie du Marché",
+      "adresse": "Rue de Paris, Sousse Médina",
+      "telephone": "+216 73 221 345",
+      "stock": [
+        {
+          "medicamentId": 1,
+          "quantite": 20,
+          "prix": 13.2
+        },
+        {
+          "medicamentId": 2,
+          "quantite": 15,
+          "prix": 16.5
+        },
+        {
+          "medicamentId": 3,
+          "quantite": 10,
+          "prix": 23.8
+        },
+        {
+          "medicamentId": 4,
+          "quantite": 0,
+          "prix": 11.4
+        },
+        {
+          "medicamentId": 5,
+          "quantite": 35,
+          "prix": 19.1
+        },
+        {
+          "medicamentId": 6,
+          "quantite": 18,
+          "prix": 15.3
+        },
+        {
+          "medicamentId": 7,
+          "quantite": 22,
+          "prix": 26.7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Pharmacie de la Gare",
+      "adresse": "Avenue Mohamed Maarouf, Sousse Gare",
+      "telephone": "+216 73 228 901",
+      "stock": [
+        {
+          "medicamentId": 1,
+          "quantite": 45,
+          "prix": 12.8
+        },
+        {
+          "medicamentId": 2,
+          "quantite": 25,
+          "prix": 16.2
+        },
+        {
+          "medicamentId": 3,
+          "quantite": 5,
+          "prix": 22.9
+        },
+        {
+          "medicamentId": 4,
+          "quantite": 30,
+          "prix": 11.1
+        },
+        {
+          "medicamentId": 5,
+          "quantite": 0,
+          "prix": 18.5
+        },
+        {
+          "medicamentId": 6,
+          "quantite": 12,
+          "prix": 14.9
+        },
+        {
+          "medicamentId": 7,
+          "quantite": 8,
+          "prix": 25.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Pharmacie Sahloul",
+      "adresse": "Route de la Corniche, Sahloul, Sousse",
+      "telephone": "+216 73 245 123",
+      "stock": [
+        {
+          "medicamentId": 1,
+          "quantite": 60,
+          "prix": 12.3
+        },
+        {
+          "medicamentId": 2,
+          "quantite": 40,
+          "prix": 15.6
+        },
+        {
+          "medicamentId": 3,
+          "quantite": 20,
+          "prix": 22.5
+        },
+        {
+          "medicamentId": 4,
+          "quantite": 35,
+          "prix": 10.7
+        },
+        {
+          "medicamentId": 5,
+          "quantite": 50,
+          "prix": 17.9
+        },
+        {
+          "medicamentId": 6,
+          "quantite": 25,
+          "prix": 14.4
+        },
+        {
+          "medicamentId": 7,
+          "quantite": 30,
+          "prix": 24.9
+        }
+      ]
+    }
+  ],

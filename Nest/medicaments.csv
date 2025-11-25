@@ -1,0 +1,65 @@
+ "medicaments": [
+    {
+      "id": 1,
+      "nom": "Paracétamol",
+      "composant": "Paracétamol",
+      "type": "Analgésique",
+      "dosage": "500mg",
+      "forme": "Comprimé",
+      "description": "effet antalgique pour les douleurs palier 1"
+    },
+    {
+      "id": 2,
+      "nom": "Ibuprofène",
+      "composant": "Ibuprofène",
+      "type": "Anti-inflammatoire",
+      "dosage": "400mg",
+      "forme": "Comprimé",
+      "description": " réduirt la douleur, l'inflammation et la fièvre."
+    },
+    {
+      "id": 3,
+      "nom": "Amoxicilline",
+      "composant": "Amoxicilline",
+      "type": "Antibiotique",
+      "dosage": "1g",
+      "forme": "Gélule",
+      "description": "traite les infections bactériennes "
+    },
+    {
+      "id": 4,
+      "nom": "Aspirine",
+      "composant": "Acide acétylsalicylique",
+      "type": "Analgésique",
+      "dosage": "100mg",
+      "forme": "Comprimé",
+      "description": "Antiagrégant plaquettaire et analgésique. Prévention des maladies cardiovasculaires."
+    },
+    {
+      "id": 5,
+      "nom": "Doliprane",
+      "composant": "Paracétamol",
+      "type": "Analgésique",
+      "dosage": "1000mg",
+      "forme": "Comprimé effervescent",
+      "description": "Traitement de la douleur et la fièvre"
+    },
+    {
+      "id": 6,
+      "nom": "Oméprazole",
+      "composant": "Oméprazole",
+      "type": "Anti-acide",
+      "dosage": "20mg",
+      "forme": "Gélule",
+      "description": "Traite les ulcères gastriques et le reflux gastro-œsophagien"
+    },
+    {
+      "id": 7,
+      "nom": "Clindamycine",
+      "composant": "Clindamycine",
+      "type": "Antibiotique",
+      "dosage": "300mg",
+      "forme": "Gélule",
+      "description": "Antibiotique à prescrire lors d'une allergie à l'amoxicilline"
+    }
+  ],
