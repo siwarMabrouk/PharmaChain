@@ -2,9 +2,12 @@
 **PharmaChain** est un réseau inter-pharmacie innovant qui permet aux pharmacies de se connecter et de s’échanger des médicaments.  
 
 ##  Fonctionnalités
--Les pharmacies peuvent commander des médicaments en rupture de stock auprès d’autres pharmacies du résea
+-Les pharmacies peuvent commander des médicaments en rupture de stock auprès d’autres pharmacies du réseau
+
 -Rôle Admin : reçoit et valide les commandes.
+
 -Après validation par l’admin, une livraison est automatiquement déclenchée du médicament depuis la pharmacie source vers la pharmacie destinataire.
+
 -Suivi complet de l’historique des commandes et des échanges entre pharmacies.
 
 ## Technologies utilisées
