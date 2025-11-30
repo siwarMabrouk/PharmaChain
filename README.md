@@ -1,4 +1,5 @@
- PharmaChain 💊
+ PharmaChain 
+ 
 **PharmaChain** est un réseau inter-pharmacie innovant qui permet aux pharmacies de se connecter et de s’échanger des médicaments.  
 
 ##  Fonctionnalités
